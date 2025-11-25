@@ -17,8 +17,8 @@
 ## Примеры детекции
 
 <p align="center">
-  <img src="docs/images/yolov11_drone.png" width="45%" />
-  <img src="docs/images/yolov11_nodrone.png" width="45%" />
+  <img src="https://github.com/denchicka/DroneDetection/blob/main/docs/images/yolov11_drone.png" width="45%" />
+  <img src="https://github.com/denchicka/DroneDetection/blob/main/docs/images/yolov11_nodrone.png" width="45%" />
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/yolov11_tflite_drone.png" width="45%" />
-  <img src="docs/images/yolov11_tflite_nodrone.png" width="45%" />
+  <img src="https://github.com/denchicka/DroneDetection/blob/main/docs/images/yolov11_tflite_drone.png" width="45%" />
+  <img src="https://github.com/denchicka/DroneDetection/blob/main/docs/images/yolov11_tflite_nodrone.png" width="45%" />
 </p>
 
 <p align="center">
