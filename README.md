@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="drone_yolo/docs/images/yolov11_tflite_drone.png" width="45%" />
-  <img src="drone_yolo/docs/images/yolov11_tflite_nodrone.png" width="45%" />
+  <img src="drone_yolo/docs/images/yolov11m_tflite_nodrone.png" width="45%" />
 </p>
 
 <p align="center">
@@ -276,6 +276,7 @@ pip install -r requirements.txt
 
 ## Структура репозитория
 
+```text
 .
 ├─ drone_yolo/
 │   ├─ __init__.py
@@ -290,6 +291,7 @@ pip install -r requirements.txt
 │
 ├─ notebook.ipynb         # основной исследовательский ноутбук
 └─ README.md
+```
 
 ---
 
